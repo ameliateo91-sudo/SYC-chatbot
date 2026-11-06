@@ -1,3 +1,7 @@
+import streamlit as st
+
+st.title("FAQ - Frequently Asked Questions")
+
 DIVORCE_GUIDE_ENGLISH = "https://file.go.gov.sg/sycdivorceguides-eng.pdf"
 DIVORCE_GUIDE_MALAY = "https://file.go.gov.sg/sycdivorceguide-malay.pdf"
 
